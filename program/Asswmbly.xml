@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<lab07>
+
+
+<comment>Animal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null<comment/>
+
+<class>Microsoft.CodeAnalysis.EmbeddedAttribute : System.Attribute<class/>
+<comment>is abstract:False<comment/>
+<comment>methods:<comment/>
+
+<method>Equals<method/>
+<method>GetHashCode<method/>
+<method>get_TypeId<method/>
+<method>Match<method/>
+<method>IsDefaultAttribute<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+
+<class>System.Runtime.CompilerServices.NullableAttribute : System.Attribute<class/>
+<comment>is abstract:False<comment/>
+<comment>methods:<comment/>
+
+<method>Equals<method/>
+<method>GetHashCode<method/>
+<method>get_TypeId<method/>
+<method>Match<method/>
+<method>IsDefaultAttribute<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+
+<class>System.Runtime.CompilerServices.NullableContextAttribute : System.Attribute<class/>
+<comment>is abstract:False<comment/>
+<comment>methods:<comment/>
+
+<method>Equals<method/>
+<method>GetHashCode<method/>
+<method>get_TypeId<method/>
+<method>Match<method/>
+<method>IsDefaultAttribute<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+
+<class>Animal.Animal : System.Object<class/>
+<comment>is abstract:True<comment/>
+<comment>Animal.CommentAttribute<comment/>
+<comment>methods:<comment/>
+
+<method>get_Country<method/>
+<method>set_Country<method/>
+<method>get_Name<method/>
+<method>set_Name<method/>
+<method>get_HideFromOtherAnimals<method/>
+<method>set_HideFromOtherAnimals<method/>
+<method>get_WhatAnimal<method/>
+<method>SayHello<method/>
+<method>GetFavouriteFood<method/>
+<method>GetClassificationAnimal<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+<method>Equals<method/>
+<method>GetHashCode<method/>
+
+<class>Animal.CommentAttribute : System.Attribute<class/>
+<comment>is abstract:False<comment/>
+<comment>methods:<comment/>
+
+<method>Equals<method/>
+<method>GetHashCode<method/>
+<method>get_TypeId<method/>
+<method>Match<method/>
+<method>IsDefaultAttribute<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+
+<class>Animal.Cow : Animal.Animal<class/>
+<comment>is abstract:False<comment/>
+<comment>Animal.CommentAttribute<comment/>
+<comment>methods:<comment/>
+
+<method>get_Country<method/>
+<method>set_Country<method/>
+<method>get_Name<method/>
+<method>set_Name<method/>
+<method>get_HideFromOtherAnimals<method/>
+<method>set_HideFromOtherAnimals<method/>
+<method>get_WhatAnimal<method/>
+<method>SayHello<method/>
+<method>GetFavouriteFood<method/>
+<method>GetClassificationAnimal<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+<method>Equals<method/>
+<method>GetHashCode<method/>
+
+<class>Animal.Lion : Animal.Animal<class/>
+<comment>is abstract:False<comment/>
+<comment>Animal.CommentAttribute<comment/>
+<comment>methods:<comment/>
+
+<method>get_Country<method/>
+<method>set_Country<method/>
+<method>get_Name<method/>
+<method>set_Name<method/>
+<method>get_HideFromOtherAnimals<method/>
+<method>set_HideFromOtherAnimals<method/>
+<method>get_WhatAnimal<method/>
+<method>SayHello<method/>
+<method>GetFavouriteFood<method/>
+<method>GetClassificationAnimal<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+<method>Equals<method/>
+<method>GetHashCode<method/>
+
+<class>Animal.Pig : Animal.Animal<class/>
+<comment>is abstract:False<comment/>
+<comment>Animal.CommentAttribute<comment/>
+<comment>methods:<comment/>
+
+<method>get_Country<method/>
+<method>set_Country<method/>
+<method>get_Name<method/>
+<method>set_Name<method/>
+<method>get_HideFromOtherAnimals<method/>
+<method>set_HideFromOtherAnimals<method/>
+<method>get_WhatAnimal<method/>
+<method>SayHello<method/>
+<method>GetFavouriteFood<method/>
+<method>GetClassificationAnimal<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+<method>Equals<method/>
+<method>GetHashCode<method/>
+<lab07/>
+
+<lab07>
+
+
+<comment>Animal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null<comment/>
+
+<class>Microsoft.CodeAnalysis.EmbeddedAttribute : System.Attribute<class/>
+<comment>is abstract:False<comment/>
+<comment>methods:<comment/>
+
+<method>Equals<method/>
+<method>GetHashCode<method/>
+<method>get_TypeId<method/>
+<method>Match<method/>
+<method>IsDefaultAttribute<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+
+<class>System.Runtime.CompilerServices.NullableAttribute : System.Attribute<class/>
+<comment>is abstract:False<comment/>
+<comment>methods:<comment/>
+
+<method>Equals<method/>
+<method>GetHashCode<method/>
+<method>get_TypeId<method/>
+<method>Match<method/>
+<method>IsDefaultAttribute<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+
+<class>System.Runtime.CompilerServices.NullableContextAttribute : System.Attribute<class/>
+<comment>is abstract:False<comment/>
+<comment>methods:<comment/>
+
+<method>Equals<method/>
+<method>GetHashCode<method/>
+<method>get_TypeId<method/>
+<method>Match<method/>
+<method>IsDefaultAttribute<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+
+<class>Animal.Animal : System.Object<class/>
+<comment>is abstract:True<comment/>
+<comment>Animal.CommentAttribute<comment/>
+<comment>methods:<comment/>
+
+<method>get_Country<method/>
+<method>set_Country<method/>
+<method>get_Name<method/>
+<method>set_Name<method/>
+<method>get_HideFromOtherAnimals<method/>
+<method>set_HideFromOtherAnimals<method/>
+<method>get_WhatAnimal<method/>
+<method>SayHello<method/>
+<method>GetFavouriteFood<method/>
+<method>GetClassificationAnimal<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+<method>Equals<method/>
+<method>GetHashCode<method/>
+
+<class>Animal.CommentAttribute : System.Attribute<class/>
+<comment>is abstract:False<comment/>
+<comment>methods:<comment/>
+
+<method>Equals<method/>
+<method>GetHashCode<method/>
+<method>get_TypeId<method/>
+<method>Match<method/>
+<method>IsDefaultAttribute<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+
+<class>Animal.Cow : Animal.Animal<class/>
+<comment>is abstract:False<comment/>
+<comment>Animal.CommentAttribute<comment/>
+<comment>methods:<comment/>
+
+<method>get_Country<method/>
+<method>set_Country<method/>
+<method>get_Name<method/>
+<method>set_Name<method/>
+<method>get_HideFromOtherAnimals<method/>
+<method>set_HideFromOtherAnimals<method/>
+<method>get_WhatAnimal<method/>
+<method>SayHello<method/>
+<method>GetFavouriteFood<method/>
+<method>GetClassificationAnimal<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+<method>Equals<method/>
+<method>GetHashCode<method/>
+
+<class>Animal.Lion : Animal.Animal<class/>
+<comment>is abstract:False<comment/>
+<comment>Animal.CommentAttribute<comment/>
+<comment>methods:<comment/>
+
+<method>get_Country<method/>
+<method>set_Country<method/>
+<method>get_Name<method/>
+<method>set_Name<method/>
+<method>get_HideFromOtherAnimals<method/>
+<method>set_HideFromOtherAnimals<method/>
+<method>get_WhatAnimal<method/>
+<method>SayHello<method/>
+<method>GetFavouriteFood<method/>
+<method>GetClassificationAnimal<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+<method>Equals<method/>
+<method>GetHashCode<method/>
+
+<class>Animal.Pig : Animal.Animal<class/>
+<comment>is abstract:False<comment/>
+<comment>Animal.CommentAttribute<comment/>
+<comment>methods:<comment/>
+
+<method>get_Country<method/>
+<method>set_Country<method/>
+<method>get_Name<method/>
+<method>set_Name<method/>
+<method>get_HideFromOtherAnimals<method/>
+<method>set_HideFromOtherAnimals<method/>
+<method>get_WhatAnimal<method/>
+<method>SayHello<method/>
+<method>GetFavouriteFood<method/>
+<method>GetClassificationAnimal<method/>
+<method>GetType<method/>
+<method>ToString<method/>
+<method>Equals<method/>
+<method>GetHashCode<method/>
+<lab07/>

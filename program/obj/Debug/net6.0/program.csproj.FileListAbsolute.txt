@@ -1,0 +1,15 @@
+/Users/marmelad/RiderProjects/lab07/program/bin/Debug/net6.0/program
+/Users/marmelad/RiderProjects/lab07/program/bin/Debug/net6.0/program.deps.json
+/Users/marmelad/RiderProjects/lab07/program/bin/Debug/net6.0/program.runtimeconfig.json
+/Users/marmelad/RiderProjects/lab07/program/bin/Debug/net6.0/program.dll
+/Users/marmelad/RiderProjects/lab07/program/bin/Debug/net6.0/program.pdb
+/Users/marmelad/RiderProjects/lab07/program/obj/Debug/net6.0/program.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab07/program/obj/Debug/net6.0/program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab07/program/obj/Debug/net6.0/program.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab07/program/obj/Debug/net6.0/program.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab07/program/obj/Debug/net6.0/program.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab07/program/obj/Debug/net6.0/program.dll
+/Users/marmelad/RiderProjects/lab07/program/obj/Debug/net6.0/refint/program.dll
+/Users/marmelad/RiderProjects/lab07/program/obj/Debug/net6.0/program.pdb
+/Users/marmelad/RiderProjects/lab07/program/obj/Debug/net6.0/program.genruntimeconfig.cache
+/Users/marmelad/RiderProjects/lab07/program/obj/Debug/net6.0/ref/program.dll

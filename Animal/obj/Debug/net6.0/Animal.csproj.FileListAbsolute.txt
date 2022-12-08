@@ -1,0 +1,12 @@
+/Users/marmelad/RiderProjects/lab07/Animal/bin/Debug/net6.0/Animal.deps.json
+/Users/marmelad/RiderProjects/lab07/Animal/bin/Debug/net6.0/Animal.dll
+/Users/marmelad/RiderProjects/lab07/Animal/bin/Debug/net6.0/Animal.pdb
+/Users/marmelad/RiderProjects/lab07/Animal/obj/Debug/net6.0/Animal.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab07/Animal/obj/Debug/net6.0/Animal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab07/Animal/obj/Debug/net6.0/Animal.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab07/Animal/obj/Debug/net6.0/Animal.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab07/Animal/obj/Debug/net6.0/Animal.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab07/Animal/obj/Debug/net6.0/Animal.dll
+/Users/marmelad/RiderProjects/lab07/Animal/obj/Debug/net6.0/refint/Animal.dll
+/Users/marmelad/RiderProjects/lab07/Animal/obj/Debug/net6.0/Animal.pdb
+/Users/marmelad/RiderProjects/lab07/Animal/obj/Debug/net6.0/ref/Animal.dll
